@@ -1,4 +1,5 @@
-import ICategory from "@/interfaces/ICategory";
+import ICategory from "../interfaces/Category";
+
 
 const categoriesToPreLoad: ICategory[] = [
     { name: 'Smartphones', id: 1 },
